@@ -76,4 +76,4 @@ This command creates a copy of `.env.example` and names it `.env`, allowing you 
         └── __init__.py 
 ```
 
---------
+--------# Project_Template
